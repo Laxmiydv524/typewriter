@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/typewriter/static/css/main.e6c13ad2.css",
+    "main.js": "/typewriter/static/js/main.adab92a2.js",
+    "static/js/453.8746512b.chunk.js": "/typewriter/static/js/453.8746512b.chunk.js",
+    "index.html": "/typewriter/index.html",
+    "main.e6c13ad2.css.map": "/typewriter/static/css/main.e6c13ad2.css.map",
+    "main.adab92a2.js.map": "/typewriter/static/js/main.adab92a2.js.map",
+    "453.8746512b.chunk.js.map": "/typewriter/static/js/453.8746512b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.adab92a2.js"
+  ]
+}
